@@ -1,3 +1,3 @@
 ### Hi! I'm Robin 👋
 
-I'm currently a undergraduate at Carnegie Mellon University studying Artificial Intelligence 🤖.  
+I'm currently an undergraduate at Carnegie Mellon University studying Artificial Intelligence 🤖.  
