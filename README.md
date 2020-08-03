@@ -2,7 +2,7 @@
 
 I'm currently an undergraduate at Carnegie Mellon University studying Artificial Intelligence 🤖 
 
-While you are here, take a look at some of the projects I have contributed to below and feel free to reach out if you want to discuss my experiences and technical abilities.
+While you are here, take a look at some of the projects I have contributed to below! Feel free to reach out if you want to discuss my experiences and technical abilities.
 
 <b>Connect with me 💬</b>
 
